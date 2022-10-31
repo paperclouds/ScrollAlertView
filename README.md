@@ -24,7 +24,8 @@ Xib中具体操作如下：
 ![](https://upload-images.jianshu.io/upload_images/2466108-b6c6d74dd882237a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 5.把Label、ScrollView和ScrollView的高度约束拖动到.m文件
-![](https://upload-images.jianshu.io/upload_images/2466108-15205c7253d92674.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image](https://user-images.githubusercontent.com/8154610/198965529-a2f50e86-396e-4029-8910-2a8150097e13.png)
 
 
 6.在.m文件添加如下代码，给ScrollView分别设置一个最小高度和最大高度，分别测试短文本和长文本的效果。注：如果是UIView，设置高度的代码要放在  `layoutSubviews`方法里面
