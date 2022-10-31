@@ -56,7 +56,6 @@ Xib中具体操作如下：
 
 ![短文本](https://upload-images.jianshu.io/upload_images/2466108-4c76adbc352427f5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
-
 ![长文本](https://upload-images.jianshu.io/upload_images/2466108-b97007b30892e5c4.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
 
